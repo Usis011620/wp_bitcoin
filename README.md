@@ -6,6 +6,17 @@
 2. Ejecuta `docker compose up` para levantar el entorno de desarrollo.
 3. Accede a `http://localhost:8000` para ver el sitio en funcionamiento.
 
+## BD
+       MYSQL_ROOT_PASSWORD: somewordpress
+       MYSQL_DATABASE: exampledb
+       MYSQL_USER: exampleuser
+       MYSQL_PASSWORD: examplepass
+
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: exampleuser
+      WORDPRESS_DB_PASSWORD: examplepass
+      WORDPRESS_DB_NAME: exampledb
+
 ## Funcionalidades
 
 ### Custom Post Type "Books"
