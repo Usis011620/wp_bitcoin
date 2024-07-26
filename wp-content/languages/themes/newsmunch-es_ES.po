@@ -1,0 +1,1703 @@
+# Translation of Themes - NewsMunch in Spanish (Spain)
+# This file is distributed under the same license as the Themes - NewsMunch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-02 11:24:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - NewsMunch\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsMunch is a fast, clean, Best Responsive News Magazine WordPress theme. NewsMunch is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. With its modern and clean design, NewsMunch offers a visually appealing layout that is easy to navigate, making it ideal for delivering content to your readers. This theme comes equipped with a range of customizable options, custom widgets, and color schemes, allowing you to tailor your website to your specific needs and branding. It also supports various post formats, making it easy to present a variety of content types, from articles and videos to images and galleries. NewsMunch is optimized for speed and SEO, ensuring that your website loads quickly and ranks well in search engine results. Its responsive design ensures that your content looks great on all devices, whether it's a desktop computer, tablet, or smartphone. NewsMunch demos https://preview.desertthemes.com/newsmunch/"
+msgstr "NewsMunch es un tema de WordPress para revistas de noticias rápido, limpio y con la mejor capacidad de respuesta. NewsMunch es adecuado para noticias dinámicas, periódicos, revistas, editoriales, blogs, editores, revistas en línea y de juegos, portales de noticias, blogs personales, periódicos, sitios de publicaciones o reseñas y cualquier sitio web creativo. Con su diseño moderno y limpio, NewsMunch ofrece un diseño visualmente atractivo y fácil de navegar, lo que lo hace ideal para entregar contenido a sus lectores. Este tema viene equipado con una variedad de opciones personalizables, widgets personalizados y combinaciones de colores, lo que le permite adaptar su sitio web a sus necesidades y marca específicas. También admite varios formatos de publicación, lo que facilita la presentación de una variedad de tipos de contenido, desde artículos y videos hasta imágenes y galerías. NewsMunch está optimizado para velocidad y SEO, lo que garantiza que su sitio web se cargue rápidamente y tenga una buena clasificación en los resultados de los motores de búsqueda. Su diseño responsivo garantiza que su contenido se vea excelente en todos los dispositivos, ya sea una computadora de escritorio, una tableta o un teléfono inteligente. Demostraciones de NewsMunch https://preview.desertthemes.com/newsmunch/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsMunch"
+msgstr "NewsMunch"
+
+#: template-parts/section-slider.php:23
+msgid "4 dt-col-lg-4"
+msgstr "4 dt-col-lg-4"
+
+#: template-parts/section-slider.php:17 template-parts/section-slider.php:23
+msgid "3 dt-col-md-6"
+msgstr "3 dt-col-md-6"
+
+#: template-parts/section-slider.php:17
+msgid "8 dt-col-lg-8"
+msgstr "8 dt-col-lg-8"
+
+#: inc/extras.php:1034
+msgid "fab fa-youtube"
+msgstr "fab fa-youtube"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:322
+msgid "You Missed Types"
+msgstr "Te perdiste tipos"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:187
+msgid "Top Tags Styles"
+msgstr "Estilos de etiquetas principales"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1420
+msgid "Background Styles"
+msgstr "Estilos de fondo"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1387
+msgid "Color Styles"
+msgstr "Estilos de color"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1354
+msgid "Pagination Styles"
+msgstr "Estilos de paginación"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:722
+msgid "Sidebar Features"
+msgstr "Funciones de la barra lateral"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:383
+msgid "Breadcrumb Types"
+msgstr "Tipos de ruta de navegación"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:809
+msgid "Slider Types"
+msgstr "Tipo de diapositiva"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:299
+msgid "Featured Types"
+msgstr "Tipos destacados"
+
+#: inc/customizer/controls/code/upgrade/class-customize.php:73
+msgid "Upgrade to NewsMunch Pro"
+msgstr "Actualiza a NewsMunch Pro"
+
+#: woocommerce/content-product.php:32
+msgid "Sale"
+msgstr "Venta"
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "Remove this item"
+msgstr "Quitar este elemento"
+
+#: woocommerce/cart/mini-cart.php:74 woocommerce/cart/mini-cart.php:159
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "Checkout"
+msgstr "Finalizar pago"
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: woocommerce/cart/mini-cart.php:66 woocommerce/cart/mini-cart.php:152
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: template-parts/site-header.php:18 template-parts/site-header.php:87
+msgid "data-bg-image"
+msgstr "data-bg-image"
+
+#: template-parts/site-header.php:17 template-parts/site-header.php:87
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: template-parts/site-breadcrumb.php:11
+msgid "dt-py-3"
+msgstr "dt-py-3"
+
+#: template-parts/site-breadcrumb.php:11
+msgid "style-2"
+msgstr "style-2"
+
+#: template-parts/section-slider.php:11
+msgid "6"
+msgstr "6"
+
+#: template-parts/section-slider.php:11
+msgid "9"
+msgstr "9"
+
+#: template-parts/section-slider.php:11
+msgid "12"
+msgstr "12"
+
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:23
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/content-author.php:24
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "Aún no has introducido tu información biográfica.  %1$sEdita tu perfil%2$s ahora."
+
+#: single.php:52
+msgid "Comments"
+msgstr "Comentarios"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "Página del maquetador"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página de ancho completo"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Portada"
+
+#: inc/widgets/widgets-init.php:208
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-init.php:197
+msgid "Choose Image"
+msgstr "Elegir imagen"
+
+#: inc/widgets/widgets-init.php:196
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: inc/widgets/widgets-init.php:195
+msgid "Upload"
+msgstr "Subir un archivo"
+
+#: inc/widgets/latest-post-list.php:24
+msgid "DT: Latest Post List"
+msgstr "DT: Lista de publicaciones más recientes"
+
+#: inc/widgets/latest-post-grid.php:159 inc/widgets/latest-post-list.php:172
+msgid "Enable Background & Padding"
+msgstr "Habilitar fondo y relleno"
+
+#: inc/widgets/latest-post-grid.php:156 inc/widgets/latest-post-list.php:169
+msgid "Load More Button Label"
+msgstr "Cargar más etiqueta del botón"
+
+#: inc/widgets/latest-post-grid.php:155 inc/widgets/latest-post-list.php:168
+msgid "Number of Post to Show Before Load More Button"
+msgstr "Número de publicaciones para mostrar antes del botón Cargar más"
+
+#: inc/widgets/latest-post-grid.php:154 inc/widgets/latest-post-list.php:167
+msgid "Number of Post to Show"
+msgstr "Número de publicaciones para mostrar"
+
+#: inc/widgets/latest-post-grid.php:152 inc/widgets/latest-post-list.php:165
+msgid "Select Blog Category"
+msgstr "Selecciona la categoría de blog."
+
+#: inc/widgets/latest-post-grid.php:24
+msgid "DT: Latest Post Grid"
+msgstr "DT: Cuadrícula de publicaciones más recientes"
+
+#: inc/widgets/latest-post-grid.php:20 inc/widgets/latest-post-list.php:20
+msgid "Displays posts from selected category."
+msgstr "Mostrar las entradas de la categoría seleccionada"
+
+#: inc/template-tags.php:663 inc/template-tags.php:696
+msgid "0"
+msgstr "0"
+
+#: inc/template-tags.php:617
+msgid "Or check our Popular Categories..."
+msgstr "O consulte nuestras categorías populares..."
+
+#: inc/template-tags.php:608
+msgid "search Here"
+msgstr "busca aquí"
+
+#: inc/template-tags.php:607
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: inc/template-tags.php:602
+msgid "search again"
+msgstr "buscar de nuevo"
+
+#: inc/template-tags.php:132
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/template-tags.php:95
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/template-tags.php:90 inc/template-tags.php:93
+msgid "Home"
+msgstr "Inicio"
+
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:53
+msgid "Search results for"
+msgstr "Resultados de la búsqueda de"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:46
+msgid "404"
+msgstr "404"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:46
+msgid "%1$s "
+msgstr "%1$s "
+
+#. translators: %1$s %2$s: WooCommerce
+#: inc/template-tags.php:36
+msgid "Shop"
+msgstr "Tienda"
+
+#. translators: %1$s %2$s: tag
+#: inc/template-tags.php:33
+msgid "Tag"
+msgstr "Etiqueta"
+
+#. translators: %1$s %2$s: category
+#: inc/template-tags.php:30
+msgid "Category"
+msgstr "Categoría"
+
+#. translators: %1$s %2$s: author
+#: inc/template-tags.php:27
+msgid "All posts by"
+msgstr "Todas las entradas de"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#: inc/template-tags.php:18 inc/template-tags.php:21 inc/template-tags.php:24
+msgid "Archives"
+msgstr "Archivos"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#. translators: %1$s %2$s: author
+#. translators: %1$s %2$s: category
+#. translators: %1$s %2$s: tag
+#. translators: %1$s %2$s: WooCommerce
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:18 inc/template-tags.php:21 inc/template-tags.php:24
+#: inc/template-tags.php:27 inc/template-tags.php:30 inc/template-tags.php:33
+#: inc/template-tags.php:36 inc/template-tags.php:53
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/extras.php:1029
+msgid "fab fa-x-twitter"
+msgstr "fab fa-x-twitter"
+
+#: inc/extras.php:1024
+msgid "fab fa-instagram"
+msgstr "fab fa-instagram"
+
+#: inc/extras.php:1020 inc/extras.php:1025 inc/extras.php:1030
+#: inc/extras.php:1035
+msgid "#"
+msgstr "#"
+
+#: inc/extras.php:1019
+msgid "fab fa-facebook-f"
+msgstr "fab fa-facebook-f"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/extras.php:860
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/extras.php:707 single.php:67
+msgid "Read More"
+msgstr "Leer Más"
+
+#: inc/extras.php:517
+msgid "View all posts in %s"
+msgstr "Ver todas las entradas en %s"
+
+#: inc/extras.php:418
+msgid "<a href=\"#\">Desert Themes</a>"
+msgstr "<a href=\"#\">Desert Themes</a>"
+
+#: inc/extras.php:208
+msgid "Recent"
+msgstr "Recientes"
+
+#: inc/extras.php:202
+msgid "Trending"
+msgstr "Tendencia"
+
+#: inc/extras.php:196
+msgid "Popular"
+msgstr "Populares"
+
+#: inc/extras.php:38 inc/extras.php:113
+#: template-parts/section-you-missed.php:38
+msgid "By"
+msgstr "Por"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:292
+msgid "Number of You Missed"
+msgstr "Número de personas que te perdiste"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:134
+msgid "Posts to be shown on You Missed section"
+msgstr "Publicaciones que se mostrarán en la sección Te perdiste"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:115
+msgid "You Missed Content"
+msgstr "Te perdiste contenido"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:82
+msgid "You Missed"
+msgstr "Te lo perdiste"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:73
+msgid "You Missed Content Head"
+msgstr "Te perdiste el encabezado de contenido"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:31
+msgid "You Missed Setting"
+msgstr "Te perdiste la configuración"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:9
+msgid "You Missed Section"
+msgstr "Te perdiste la sección"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:546
+msgid "Text Transform"
+msgstr "Transformar texto"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:492
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:369
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:307
+msgid "Headings (H1-H6) Typography"
+msgstr "Encabezados (H1-H6) Tipografía"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:293
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:598
+msgid "Typography Features"
+msgstr "Funciones de tipografía"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:272
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:577
+msgid "Line Through"
+msgstr "Línea a través"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:271
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:576
+msgid "Overline"
+msgstr "Línea superior"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:270
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:575
+msgid "Underline"
+msgstr "Subrayado"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:264
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:570
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:247
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:553
+msgid "Capitalize"
+msgstr "Primera en mayúscula"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:246
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:552
+msgid "Lowercase"
+msgstr "Mínusculas"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:245
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:551
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:239
+msgid "Transform"
+msgstr "Transformación"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:223
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:529
+msgid "oblique"
+msgstr "oblicuo"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:222
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:528
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:221
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:527
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:220
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:269
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:496
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:526
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:574
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:215
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:522
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:198
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:505
+msgid "Black: 900"
+msgstr "Black: 900"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:197
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:504
+msgid "Extra Bold: 800"
+msgstr "Extra Bold: 800"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:196
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:503
+msgid "Bold: 700"
+msgstr "Bold: 700"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:195
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:502
+msgid "Semibold: 600"
+msgstr "Semibold: 600"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:194
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:501
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:193
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:500
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:192
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:499
+msgid "Book: 300"
+msgstr "Book: 300"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:191
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:498
+msgid "Light: 200"
+msgstr "Light: 200"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:190
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:497
+msgid "Thin: 100"
+msgstr "Thin: 100"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:184
+msgid "Weight"
+msgstr "Grosor"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:145
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:454
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:103
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:409
+msgid "Line Height"
+msgstr "Altura de linea"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:62
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:38
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:345
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:19
+msgid "Body Typography"
+msgstr "Tipografía del cuerpo"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:146
+msgid "Latest Story Title"
+msgstr "Título de la última historia"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:135
+msgid "Latest Story"
+msgstr "Última historia"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:125
+msgid "Top Tags Title"
+msgstr "Título de las etiquetas principales"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:114
+msgid "Top Tags"
+msgstr "Top de etiquetas"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:97
+msgid "Display Top Tags & Latest Story on"
+msgstr "Mostrar etiquetas principales y la historia más reciente en"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:77
+msgid "Hide/Show Latest Story?"
+msgstr "¿Ocultar/Mostrar la última historia?"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:57
+msgid "Hide/Show Top Tags?"
+msgstr "¿Ocultar/Mostrar etiquetas principales?"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:38
+msgid "Top Tags & Latest Story Setting"
+msgstr "Etiquetas principales y configuración de la historia más reciente"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:16
+msgid "Top Tags & Latest Story Section"
+msgstr "Etiquetas principales y sección de historias más recientes"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:10
+msgid "Theme Frontpage"
+msgstr "Portada del tema"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1366
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1334
+msgid "Next / Preview"
+msgstr "Siguiente / Vista previa"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1333
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:43
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:189
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:244
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:349
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:550
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1309
+msgid "Post Pagination"
+msgstr "Paginación de entradas"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1287
+msgid "Classic"
+msgstr "Clásico"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1286
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1285
+msgid "List"
+msgstr "Lista"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1280
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1328
+msgid "Select Type"
+msgstr "Seleccionar el tipo"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1261
+msgid "Archive Layout"
+msgstr "Disposición de página"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1238
+msgid "Read More Label"
+msgstr "Etiqueta para «Leer más»"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1228
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1197
+msgid "Hide/Show Social Share?"
+msgstr "¿Ocultar/Mostrar compartir en redes sociales?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1178
+msgid "Hide/Show Content?"
+msgstr "¿Ocultar/Mostrar contenido?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1157
+msgid "Hide/Show Reading Time?"
+msgstr "¿Ocultar/Mostrar tiempo de lectura?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1138
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:233
+msgid "Hide/Show View?"
+msgstr "¿Ocultar/Mostrar vista?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1019
+msgid "Read More Button Text"
+msgstr "Leer más texto del botón"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1008
+msgid "Read more"
+msgstr "Leer Mas"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:999
+msgid "Enable Read More Button"
+msgstr "Habilitar el botón Leer más"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:978
+msgid "Excerpt More"
+msgstr "Texto «Más» del extracto"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:949
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:929
+msgid "Enable Excerpt"
+msgstr "Activar el extracto"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:908
+msgid "Post Excerpt"
+msgstr "Extracto de las entradas"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:886
+msgid "Blog Options"
+msgstr "Opciones del blog"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:853
+msgid "Widget Title Font Size"
+msgstr "Tamaño de la fuente del título del widget"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:796
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:816
+msgid "Sticky Sidebar"
+msgstr "Barra lateral fija"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:766
+msgid "Sidebar Width"
+msgstr "Ancho de la barra lateral"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:756
+msgid "33"
+msgstr "33"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:744
+msgid "Options"
+msgstr "Opciones"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:695
+msgid "Author Page Sidebar Option"
+msgstr "Opción de barra lateral de la página de autor"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:669
+msgid "WooCommerce Page Sidebar Option"
+msgstr "Opción de barra lateral de la página WooCommerce"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:642
+msgid "Search Page Sidebar Option"
+msgstr "Opción de barra lateral de la página de búsqueda"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:616
+msgid "Blog Page Sidebar Option"
+msgstr "Opción de barra lateral de la página del blog"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:589
+msgid "Single Page Sidebar Option"
+msgstr "Opción de barra lateral de una sola página"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:562
+msgid "Archive Page Sidebar Option"
+msgstr "Opción de barra lateral de página de archivo"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:543
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:569
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:596
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:623
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:649
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:676
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:702
+msgid "No Sidebar"
+msgstr "Sin barras laterales"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:542
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:568
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:595
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:622
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:648
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:675
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:701
+msgid "Right Sidebar"
+msgstr "Barra lateral a la derecha"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:541
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:567
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:594
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:621
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:647
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:674
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:700
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:536
+msgid "Default Page Sidebar Option"
+msgstr "Opción de barra lateral de página predeterminada"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:517
+msgid "Sidebar Layout"
+msgstr "Disposición de la barra lateral"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:498
+msgid "Sidebar Options"
+msgstr "Opciones de barra lateral"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:462
+msgid "Content Font Size"
+msgstr "Tamaño de la fuente del contenido"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:424
+msgid "Title Font Size"
+msgstr "Tamaño de fuente del título"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:405
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:834
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:8
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:363
+msgid "NavXT Plugin"
+msgstr "Plugin NavXT"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:362
+msgid "Rank Math Plugin"
+msgstr "Plugin Rank Math"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:361
+msgid "Yoast Plugin"
+msgstr "Plugin Yoast"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:355
+msgid "You need to install and activate the respected plugin to show their Breadcrumb. Otherwise, your default theme Breadcrumb will appear. If you see error in search console, then we recommend to use plugin Breadcrumb."
+msgstr "Debe instalar y activar el complemento respetado para mostrar su Breadcrumb. De lo contrario, aparecerá su tema predeterminado Breadcrumb. Si ve un error en la consola de búsqueda, le recomendamos utilizar el complemento Breadcrumb."
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:354
+msgid "Select Breadcrumb Type"
+msgstr "Seleccione el tipo de ruta de navegación"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:334
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:314
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar sección"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:295
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:275
+msgid "Site Breadcrumb"
+msgstr "Ruta de navegación del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:264
+msgid "Dark"
+msgstr "Oscuros"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:263
+msgid "Light"
+msgstr "Claro"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:258
+msgid "Select Light or  Dark Mode ?"
+msgstr "¿Seleccionar modo claro u oscuro?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:216
+msgid "WooCommerce Products"
+msgstr "Productos de WooCommerce"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:215
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:210
+msgid "Search Result Page will Show ?"
+msgstr "¿Se mostrará la página de resultados de búsqueda?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:191
+msgid "Search Result"
+msgstr "Resultados de la búsqueda"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:167
+msgid "Hide / Show Scroller"
+msgstr "Ocultar/Mostrar desplazamiento"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:148
+msgid "Top Scroller"
+msgstr "Desplazamiento superior"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:116
+msgid "Container Width"
+msgstr "Anchura del contenedor"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:96
+msgid "Site Container"
+msgstr "Contenedor del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:71
+msgid "Hide / Show Preloader"
+msgstr "Ocultar/Mostrar precargador"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:51
+msgid "Site Preloader"
+msgstr "Precargador del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:27
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:16
+msgid "Header Image"
+msgstr "Imagen de cabecera"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:7
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:789
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1399
+msgid "Background Image"
+msgstr "Imagen del fondo"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:772
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:740
+msgid "Number of Post in Tab"
+msgstr "Número de publicaciones en la pestaña"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:661
+msgid "Posts to be shown on 3"
+msgstr "Publicaciones que se mostrarán el 3"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:660
+msgid "Select Category For 3"
+msgstr "Seleccione categoría para 3"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:642
+msgid "Posts to be shown on 2"
+msgstr "Publicaciones que se mostrarán el 2"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:641
+msgid "Select Category For 2"
+msgstr "Seleccione categoría para 2"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:623
+msgid "Posts to be shown on 1"
+msgstr "Publicaciones que se mostrarán el 1"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:622
+msgid "Select Category For 1"
+msgstr "Seleccione categoría para 1"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:592
+msgid "Today Update"
+msgstr "Actualización de hoy"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:581
+msgid "Hide/Show Tab Post?"
+msgstr "¿Ocultar/Mostrar publicación de pestaña?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:562
+msgid "Slider Content Right"
+msgstr "Contenido del control deslizante hacia la derecha"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:531
+msgid "Number of Post"
+msgstr "Número de entradas"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:391
+msgid "Posts to be shown on Left"
+msgstr "Publicaciones que se mostrarán a la izquierda"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:360
+msgid "Today Post"
+msgstr "Publicación de hoy"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:350
+msgid "Hide/Show Slider Middle?"
+msgstr "¿Ocultar/Mostrar control deslizante en el medio?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:331
+msgid "Slider Content Middle"
+msgstr "Contenido del control deslizante medio"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:299
+msgid "Number of Slides"
+msgstr "Número de diapositivas"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:128
+msgid "Main Story"
+msgstr "Historia principal"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:118
+msgid "Hide/Show Slider Left?"
+msgstr "¿Ocultar/Mostrar control deslizante hacia la izquierda?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:98
+msgid "Slider Content Left"
+msgstr "Contenido del control deslizante hacia la izquierda"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:70
+msgid "Display Slider on"
+msgstr "Mostrar control deslizante activado"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:31
+msgid "Slider Setting"
+msgstr "Configuración del control deslizante"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:9
+msgid "Slider Section"
+msgstr "Sección de carrusel"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:247
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:238
+msgid "Hide/Show Related Post?"
+msgstr "¿Ocultar/Mostrar publicación relacionada?"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:218
+msgid "Related Post"
+msgstr "Entradas relacionadas"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:197
+msgid "Hide/Show Single Post Navigation?"
+msgstr "¿Ocultar/Mostrar navegación de publicación única?"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:177
+msgid "Hide/Show Single Post Author?"
+msgstr "¿Ocultar/Mostrar autor de publicación única?"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:135
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:157
+msgid "Single Page"
+msgstr "Página Individual"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:91
+msgid "Return To Home"
+msgstr "Vuelve a casa"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:70
+msgid "Oops! That page can't be found."
+msgstr "¡Vaya! Esa página no está."
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:50
+msgid "<b class=\"is_on\">Page Not Found</b><b>Page Not Found</b><b>Page Not Found</b>"
+msgstr "<b class=\"is_on\">Página no encontrada</b><b>Página no encontrada</b><b>Página no encontrada</b>"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:18
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:40
+msgid "404 Page"
+msgstr "Página 404"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:10
+msgid "Theme Prebuilt Pages"
+msgstr "Páginas prediseñadas de temas"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1077
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1058
+msgid "Header Sticky"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1028
+msgid "Menu Side Docker"
+msgstr "Ventana acoplable lateral del menú"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:928
+msgid "Advertise Banner"
+msgstr "Banner publicitario"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:905
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1005
+msgid "Open in New Tab ?"
+msgstr "¿Abrir en una nueva pestaña?"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:885
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:121
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:825
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:803
+msgid "Hide / Show Light & Dark Mode Switcher"
+msgstr "Ocultar/Mostrar conmutador de modo claro y oscuro"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:784
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:240
+msgid "Light/Dark Style"
+msgstr "Estilo claro/oscuro"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:719
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:854
+msgid "Subscribe"
+msgstr "Suscríbete"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:677
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:637
+msgid "Site Search"
+msgstr "Buscar en el sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:593
+msgid "WooCommerce Cart"
+msgstr "Carrito de WooCommerce"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:571
+msgid "Hide/Show Home Icon?"
+msgstr "¿Ocultar/Mostrar icono de inicio?"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:552
+msgid "Home Icon"
+msgstr "Icono de inicio"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:530
+msgid "Navigation Bar"
+msgstr "Barra de navegación"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:413
+msgid "Weather"
+msgstr "El tiempo"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:391
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:390
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:360
+msgid "Theme Default"
+msgstr "Tema por defecto"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:385
+msgid "Date Display Type"
+msgstr "Tipo de visualización de fecha"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:364
+msgid "Hide/Show Time?"
+msgstr "¿Ocultar/Mostrar hora?"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:325
+msgid "Date & Time"
+msgstr "Fecha y hora"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:303
+msgid "Posts Title to be shown on Header Text"
+msgstr "Título de las publicaciones que se mostrará en el texto del encabezado"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:302
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:158
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:390
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:166
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:133
+#: inc/widgets/widgets-init.php:399
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:272
+msgid "<i class=\"fas fa-fire-alt\"></i> Trending News:"
+msgstr "<i class=\"fas fa-fire-alt\"></i> Noticias de actualidad:"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:243
+msgid "Left Text"
+msgstr "Texto izquierdo"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:202
+msgid "Global Setting"
+msgstr "Ajuste global"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:181
+msgid "Top Header"
+msgstr "Cabecera superior"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:166
+msgid "Enable Hidden Title (h1 missing SEO issue)"
+msgstr "Activar el título oculto (problema de SEO al faltar H1)"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:125
+msgid "Site Tagline Size"
+msgstr "Tamaño de la descripción corta del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:84
+msgid "Site Title Size"
+msgstr "Tamaño del título del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:42
+msgid "Logo Size"
+msgstr "Tamaño del logo"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:23
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:12
+msgid "Header Options"
+msgstr "Opciones de la cabecera"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:223
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:516
+msgid "Icons"
+msgstr "Iconos"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:200
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:453
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:493
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:221
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:262
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:431
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:472
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:612
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:654
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:696
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:738
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:844
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:947
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1045
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1094
+msgid "Hide/Show ?"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:160
+msgid "Social"
+msgstr "Sociales"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:126
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:119
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:139
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:100
+msgid "Footer Copright"
+msgstr "Derechos de autor del pie de página"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:86
+msgid "Widgets Columns"
+msgstr "Columnas de los widgets"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:66
+msgid "4 Column"
+msgstr "4 columnas"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:60
+msgid "Select Widget Column"
+msgstr "Columna de widget de pie de página"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:20
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:39
+msgid "Footer Widget"
+msgstr "Widget del pie de página"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:10
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:364
+msgid "Select Page For After Section"
+msgstr "Seleccionar página para la sección posterior"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:343
+msgid "Select Page For Before Section"
+msgstr "Seleccionar página para la sección anterior"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:322
+msgid "Before / After Content"
+msgstr "Antes y después del contenido"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:277
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1217
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:272
+msgid "Hide/Show Post Format Icon?"
+msgstr "¿Ocultar/Mostrar icono de formato de publicación?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:279
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:511
+msgid "Hide/Show Views?"
+msgstr "¿Ocultar/Mostrar vistas?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:238
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:259
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:491
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1119
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:252
+msgid "Hide/Show Comment?"
+msgstr "¿Ocultar/Mostrar comentario?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:219
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:344
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:239
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:471
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:720
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1099
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:213
+msgid "Hide/Show Date?"
+msgstr "¿Ocultar/Mostrar fecha?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:199
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:219
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:451
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1079
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:193
+msgid "Hide/Show Author?"
+msgstr "Ocultar / Mostrar el nombre del autor"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:199
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:431
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:700
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1059
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:173
+msgid "Hide/Show Category?"
+msgstr "Ocultar / Mostrar categoría"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:159
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:411
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:680
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1039
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:153
+msgid "Hide/Show Title?"
+msgstr "Ocultar/mostrar título"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:138
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:159
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:167
+msgid "Posts to be shown on slider section"
+msgstr "Publicaciones que se mostrarán en la sección deslizante"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:137
+msgid "Select Post Category"
+msgstr "Seleccionar la categoría de entradas"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:107
+msgid "Featured Story"
+msgstr "Historia destacada"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:98
+msgid "Featured Link Content"
+msgstr "Contenido del enlace destacado"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:77
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:77
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:104
+msgid "Front & Post Page"
+msgstr "Portada y página de publicación"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:76
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:76
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:103
+msgid "Post Page"
+msgstr "Publicar página"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:75
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:75
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:102
+msgid "Front Page"
+msgstr "Portada"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:70
+msgid "Display Featured Link on"
+msgstr "Mostrar enlace destacado en"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:50
+msgid "Hide/Show?"
+msgstr "Ocultar/mostrar"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:31
+msgid "Featured Link Setting"
+msgstr "Sección de enlaces destacados"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:9
+msgid "Featured Link Section"
+msgstr "Sección de enlaces destacados"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:21
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:20
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:19
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:18
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:17
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:12
+msgid "To take full advantage of all the features of this theme. please install and activate %s plugin then use the demo importer and install the Demo according to your need."
+msgstr "Para aprovechar al máximo todas las características de este tema, instala y activa el plugin %s, luego usa el importador de demostración e instala la demostración según tus necesidades."
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-customizer-notify.php:112
+msgid "Activating"
+msgstr "Activación"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:941
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:974
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:936
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:966
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:919
+msgid "Social icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:911
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:65
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:273
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:578
+msgid "None"
+msgstr "Nada"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:906
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:896
+msgid "Video"
+msgstr "Vídeo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:888
+msgid "Background Type"
+msgstr "Tipo de fondo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:876
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:872
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:868
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:864
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:853
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:827
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:856
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:824
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:892
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:910
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:966
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:789
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:788
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:783
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:909
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:772
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:735
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Button Label Second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:543
+msgid "Delete %s"
+msgstr "Borrar %s"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:527
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:724
+msgid "Designation"
+msgstr "Designación"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:519
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:479
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:698
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:465
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "link 3"
+msgstr "enlace 3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:456
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "link"
+msgstr "link"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:447
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:685
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:933
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:955
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:758
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:985
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Label second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:419
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:643
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:865
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:101
+msgid "Button Label"
+msgstr "Etiqueta del Botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:412
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:636
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Subtitle 5"
+msgstr "Subtítulo 5"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:396
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:620
+msgid "Subtitle 4"
+msgstr "Subtítulo 4"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:612
+msgid "Subtitle 3"
+msgstr "Subtítulo 3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:372
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:596
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:80
+msgid "Subtitle"
+msgstr "Subtitulo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:588
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:118
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:283
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:60
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:139
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:371
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:603
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:93
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:48
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:43
+msgid "Add new field"
+msgstr "Añadir nuevo campo"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:50
+msgid "Import Demo"
+msgstr "Importar demo"
+
+#: inc/admin/getting-started.php:44
+msgid "To take full advantage of all the features of this theme, Please click the <strong>Import Demo</strong> and Install and Activate the plugin then use the demo importer and <strong>install the Demo</strong> according to your need."
+msgstr "Para aprovechar al máximo todas las funciones de este tema, haz clic en <strong>Importar demostración</strong> e instala y activa el plugin, luego usa el importador de demostraciones e <strong>instala la demostración</strong> según tus necesidades."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:40
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/admin/getting-started.php:33
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:168
+msgid "The Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:166
+msgid "Footer  "
+msgstr "Pie  "
+
+#: functions.php:152
+msgid "Menu Side Docker Widget Area"
+msgstr "Área de widgets de la ventana acoplable lateral del menú"
+
+#: functions.php:142
+msgid "Front Page Right Sidebar Section"
+msgstr "Sección de la barra lateral derecha de la portada"
+
+#: functions.php:132
+msgid "Front page Content Section"
+msgstr "Sección de contenido de la portada"
+
+#: functions.php:122
+msgid "Front Page Left Sidebar Section"
+msgstr "Sección de la barra lateral izquierda de la portada"
+
+#: functions.php:114
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: functions.php:103
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Este área de widgets es para el widget de WooCommerce"
+
+#: functions.php:101
+msgid "WooCommerce Widget Area"
+msgstr "Área de widgets de WooCommerce"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "Menú Primaria"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/newsmunch-free/"
+msgstr "https://desertthemes.com/themes/newsmunch-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"
